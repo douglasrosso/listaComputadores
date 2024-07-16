@@ -1,0 +1,20 @@
+{
+  "computadores": [
+    {
+      "id": 1,
+      "hostname": "computador1",
+      "processador": "Intel Core i5",
+      "memoria": "8GB",
+      "armazenamento": "256GB SSD",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "hostname": "computador2",
+      "processador": "AMD Ryzen 7",
+      "memoria": "16GB",
+      "armazenamento": "512GB SSD",
+      "ativo": false
+    }
+  ]
+}
